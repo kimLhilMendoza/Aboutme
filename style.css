@@ -1,0 +1,24 @@
+body{
+    background-color: moccasin;
+    align-content: center;
+}
+
+a{
+    color: chartreuse;
+}
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: darkturquoise;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+a:active{
+    color: yellow;
+}
